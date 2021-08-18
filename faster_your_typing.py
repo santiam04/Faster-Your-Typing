@@ -138,6 +138,7 @@ class Game:
         
         self.reset = False
         self.end = False
+        self.active = False
 
         self.input_text = ''
         self.word = ''
