@@ -1,2 +1,2 @@
-# Faster-Your-Typing
+# Faster Your Typing
  
