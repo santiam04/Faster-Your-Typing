@@ -100,7 +100,7 @@ class Game:
                 elif event.type == pygame.MOUSEBUTTONUP:
                     x, y = pygame.mouse.get_pos()
                     # position of input box
-                    if(x >= 100 and x <= 750 and y >= 250 and y <= 300):
+                    if(x >= 100 and x <= 850 and y >= 250 and y <= 300):
                         self.active = True
                         self.input_text = ''
                         self.time_start = time.time() 
